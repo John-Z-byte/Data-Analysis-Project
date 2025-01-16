@@ -1,5 +1,6 @@
-Data Analysis Project: Commission Calculations
-Overview
+**Data Analysis Project: Commission Calculations**
+
+**Overview**
 This repository contains a detailed analysis of sales data, focusing on calculating weekly commissions for sales representatives. The project uses data from three different sources:
 
 Sales Data: Contains information on sales transactions.
@@ -8,7 +9,7 @@ ATD Data: Provides the necessary data to track sales activity.
 The analysis combines these data sources to calculate weekly commissions based on conversion rates, applying penalties for underperformance. The final output displays commission calculations per representative.
 
 
-Requirements
+**Requirements**
 Python 3.x
 Libraries:
 pandas
